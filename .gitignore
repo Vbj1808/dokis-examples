@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables — never commit API keys
+.env
+.env.*
+!.env.example
+
+# Chroma vector store (demo 02 — rebuilt via ingest.py)
+**/.chroma_db/
+**/chroma_db/
+
+# Ollama model cache
+.ollama/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Claude Code / AI tooling
+.claude/
+
+# Logs
+*.log

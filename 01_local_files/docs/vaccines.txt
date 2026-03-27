@@ -1,0 +1,8 @@
+Vaccination stimulates the immune system to produce antibodies by
+introducing a weakened or inactivated form of a pathogen. Vaccines
+have eradicated smallpox and significantly reduced the incidence of
+polio, measles, and other infectious diseases. Herd immunity is
+achieved when a sufficient proportion of the population is immune,
+protecting those who cannot be vaccinated. mRNA vaccines represent a
+newer platform that instructs cells to produce a protein triggering
+an immune response.
