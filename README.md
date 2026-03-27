@@ -5,7 +5,7 @@
 <br/>
 
 [![Dokis](https://img.shields.io/pypi/v/dokis?color=1D9E75&label=dokis&logo=pypi&logoColor=white)](https://pypi.org/project/dokis/)
-[![Python](https://img.shields.io/pypi/pyversions/dokis?color=3b82f6&logo=python&logoColor=white)](https://pypi.org/project/dokis/)
+[![Python](https://img.shields.io/pypi/pyversions/dokis?v=1&color=3b82f6&logo=python&logoColor=white)](https://pypi.org/project/dokis/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-22c55e?logo=opensourceinitiative&logoColor=white)](LICENSE)
 
 **Working RAG demos for [Dokis](https://github.com/Vbj1808/dokis) — runtime provenance enforcement for LLM pipelines.**
